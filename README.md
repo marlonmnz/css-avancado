@@ -1,6 +1,6 @@
 # CSS Avançado Posicionamento
 Esse projeto faz parte do curso "CSS Avançado Posicionamento" da Origamid.
-Esse módulo consiste em criar 3 projetos distintos utilizando 4 formas de CSS em cada um deles.
+Esse módulo consiste em criar 3 projetos de uma cafeteria (Brafé) utilizando 4 formas de CSS em cada um deles.
 
 ## O que foi abordado?
 
